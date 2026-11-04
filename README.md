@@ -33,13 +33,13 @@ GA selection improved every model while using fewer features. The biggest gain w
 
 ```bash
 pip install pandas numpy scikit-learn seaborn matplotlib imbalanced-learn sklearn-genetic-opt
-jupyter notebook "AiProject_final_version (2).ipynb"
+jupyter notebook hotel_cancellation.ipynb
 ```
 
 ## Files
 
 | File | What |
 |---|---|
-| `AiProject_final_version (2).ipynb` | Full analysis and models |
+| `hotel_cancellation.ipynb` | Full analysis and models |
 | `hotel_bookings.csv` | Dataset: [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) (Antonio, Almeida & Nunes, 2019) |
 | `Report.pdf` | Written report |
