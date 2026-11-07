@@ -43,3 +43,7 @@ jupyter notebook hotel_cancellation.ipynb
 | `hotel_cancellation.ipynb` | Full analysis and models |
 | `hotel_bookings.csv` | Dataset: [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) (Antonio, Almeida & Nunes, 2019) |
 | `Report.pdf` | Written report |
+
+## License
+
+© 2026 Janat Yasser. All rights reserved. See [LICENSE](LICENSE).
